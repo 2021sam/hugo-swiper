@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://2021sam.github.io/hugo-swiper/'
 languageCode = 'en-us'
 title = 'My Hugo Swiper Site'
 # theme = 'ananke'
