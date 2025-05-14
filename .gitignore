@@ -1,0 +1,12 @@
+# /Users/2021sam/apps/BEAR/hugo/05_06/quickstart/.gitignore
+.DS_Store
+*/.DS_Store
+static/uploads/.DS_Store
+.hugo_build.lock
+/public/
+themes/mini/
+.gitmodules
+themes/ananke/
+resources/_gen/
+themes/hugo-air/
+node_modules/
